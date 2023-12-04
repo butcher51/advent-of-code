@@ -1,0 +1,10562 @@
+[
+  {
+    "a": {
+      "number": "446",
+      "x": 0,
+      "y": 102,
+      "length": 3,
+      "validation": {
+        "box": "\n.446.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 1,
+          "y": 105,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "793",
+      "x": 0,
+      "y": 106,
+      "length": 3,
+      "validation": {
+        "box": "\n.793.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 1,
+          "y": 105,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "627",
+      "x": 1,
+      "y": 52,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.627.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 2,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "722",
+      "x": 3,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.722.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 2,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "623",
+      "x": 1,
+      "y": 76,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.623.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 2,
+          "y": 76,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "192",
+      "x": 3,
+      "y": 77,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.192.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 2,
+          "y": 76,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "76",
+      "x": 2,
+      "y": 95,
+      "length": 2,
+      "validation": {
+        "box": "....\n*76.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 2,
+          "y": 94,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "31",
+      "x": 3,
+      "y": 92,
+      "length": 2,
+      "validation": {
+        "box": "...*\n.31.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 2,
+          "y": 94,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "595",
+      "x": 3,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.595.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 4,
+          "y": 26,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "815",
+      "x": 5,
+      "y": 25,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.815.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 4,
+          "y": 26,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "129",
+      "x": 3,
+      "y": 42,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.129.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 4,
+          "y": 44,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "827",
+      "x": 5,
+      "y": 44,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.827.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 4,
+          "y": 44,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "922",
+      "x": 4,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.922.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 5,
+          "y": 22,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "442",
+      "x": 6,
+      "y": 19,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.442.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 5,
+          "y": 22,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "482",
+      "x": 4,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.482.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 5,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "920",
+      "x": 5,
+      "y": 30,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.920*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 5,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "395",
+      "x": 4,
+      "y": 97,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.395.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 5,
+          "y": 99,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "680",
+      "x": 6,
+      "y": 100,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.680.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 5,
+          "y": 99,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "732",
+      "x": 5,
+      "y": 1,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.732.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 6,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "844",
+      "x": 7,
+      "y": 4,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.844.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 6,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "113",
+      "x": 5,
+      "y": 40,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.113.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 6,
+          "y": 40,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "425",
+      "x": 7,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.425.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 6,
+          "y": 40,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "571",
+      "x": 5,
+      "y": 60,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.571.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 4,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "356",
+      "x": 5,
+      "y": 64,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.356.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 4,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "693",
+      "x": 5,
+      "y": 78,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.693.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 6,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "330",
+      "x": 7,
+      "y": 79,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.330.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 6,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "918",
+      "x": 6,
+      "y": 94,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.918.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 7,
+          "y": 96,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "272",
+      "x": 8,
+      "y": 95,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.272.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 7,
+          "y": 96,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "974",
+      "x": 7,
+      "y": 46,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.974.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 8,
+          "y": 49,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "976",
+      "x": 8,
+      "y": 50,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*976.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 8,
+          "y": 49,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "348",
+      "x": 7,
+      "y": 55,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.348.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 8,
+          "y": 54,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "73",
+      "x": 9,
+      "y": 55,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.73.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 8,
+          "y": 54,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "972",
+      "x": 7,
+      "y": 125,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.972*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 7,
+          "y": 128,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "85",
+      "x": 8,
+      "y": 129,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.85.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 7,
+          "y": 128,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "676",
+      "x": 8,
+      "y": 14,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.676.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 14,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "157",
+      "x": 10,
+      "y": 13,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.157.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 14,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "45",
+      "x": 8,
+      "y": 72,
+      "length": 2,
+      "validation": {
+        "box": "....\n.45.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "899",
+      "x": 10,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.899.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "192",
+      "x": 8,
+      "y": 84,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.192.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 84,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "726",
+      "x": 10,
+      "y": 84,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.726.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 84,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "977",
+      "x": 8,
+      "y": 119,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.977*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 8,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "964",
+      "x": 9,
+      "y": 123,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.964.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 8,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "515",
+      "x": 9,
+      "y": 33,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.515.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 10,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "465",
+      "x": 11,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.465.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 10,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "493",
+      "x": 9,
+      "y": 39,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.493.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 10,
+          "y": 38,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "47",
+      "x": 11,
+      "y": 39,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.47.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 10,
+          "y": 38,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "968",
+      "x": 9,
+      "y": 106,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*968.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 105,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "687",
+      "x": 10,
+      "y": 102,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.687.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 105,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "153",
+      "x": 9,
+      "y": 133,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.153*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "274",
+      "x": 9,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".....\n3*274\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 9,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "954",
+      "x": 10,
+      "y": 45,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.954.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 11,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "930",
+      "x": 10,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.930.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 11,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "618",
+      "x": 10,
+      "y": 65,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.618.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 11,
+          "y": 68,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "413",
+      "x": 12,
+      "y": 68,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.413.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 11,
+          "y": 68,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "554",
+      "x": 11,
+      "y": 77,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.554.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 12,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "710",
+      "x": 13,
+      "y": 76,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.710.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 12,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "320",
+      "x": 11,
+      "y": 117,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.320.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 12,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "281",
+      "x": 13,
+      "y": 113,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.281.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 12,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "305",
+      "x": 12,
+      "y": 52,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.305.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 11,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "844",
+      "x": 12,
+      "y": 56,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.844.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 11,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "692",
+      "x": 12,
+      "y": 99,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.692.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 13,
+          "y": 100,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "645",
+      "x": 14,
+      "y": 99,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.645.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 13,
+          "y": 100,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "212",
+      "x": 13,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*212.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 13,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "890",
+      "x": 14,
+      "y": 33,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.890.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 13,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "848",
+      "x": 13,
+      "y": 61,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.848.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 14,
+          "y": 64,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "805",
+      "x": 15,
+      "y": 63,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.805.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 14,
+          "y": 64,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "932",
+      "x": 13,
+      "y": 107,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.932.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 14,
+          "y": 108,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "626",
+      "x": 15,
+      "y": 105,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.626.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 14,
+          "y": 108,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "398",
+      "x": 13,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.398.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 14,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "573",
+      "x": 15,
+      "y": 129,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.573.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 14,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "153",
+      "x": 15,
+      "y": 17,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.153*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 15,
+          "y": 20,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "821",
+      "x": 16,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.821.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 15,
+          "y": 20,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "693",
+      "x": 15,
+      "y": 51,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.693.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 16,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "901",
+      "x": 17,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.901.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 16,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "259",
+      "x": 15,
+      "y": 94,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.259.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 16,
+          "y": 97,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "14",
+      "x": 17,
+      "y": 96,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.14.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 16,
+          "y": 97,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "849",
+      "x": 15,
+      "y": 111,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.849.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 16,
+          "y": 110,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "839",
+      "x": 17,
+      "y": 107,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.839.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 16,
+          "y": 110,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "90",
+      "x": 16,
+      "y": 71,
+      "length": 2,
+      "validation": {
+        "box": "....\n.90.\n.*..\n",
+        "valid": true,
+        "gear": {
+          "x": 17,
+          "y": 71,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "772",
+      "x": 18,
+      "y": 69,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.772.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 17,
+          "y": 71,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "65",
+      "x": 17,
+      "y": 5,
+      "length": 2,
+      "validation": {
+        "box": "....\n.65*\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 17,
+          "y": 7,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "845",
+      "x": 17,
+      "y": 8,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*845.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 17,
+          "y": 7,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "169",
+      "x": 17,
+      "y": 88,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.169.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 18,
+          "y": 91,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "764",
+      "x": 17,
+      "y": 92,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.764.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 18,
+          "y": 91,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "553",
+      "x": 18,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.553.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 22,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "724",
+      "x": 20,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.724.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 22,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "798",
+      "x": 18,
+      "y": 26,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.798.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 27,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "973",
+      "x": 20,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.973.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 27,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "511",
+      "x": 18,
+      "y": 114,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.511.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "473",
+      "x": 20,
+      "y": 114,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.473.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "414",
+      "x": 19,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.414.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 20,
+          "y": 38,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "111",
+      "x": 21,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.111.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 20,
+          "y": 38,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "517",
+      "x": 19,
+      "y": 50,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.517.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 20,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "449",
+      "x": 21,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.449.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 20,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "28",
+      "x": 19,
+      "y": 100,
+      "length": 2,
+      "validation": {
+        "box": "....\n.28*\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 102,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "366",
+      "x": 19,
+      "y": 103,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*366.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 19,
+          "y": 102,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "910",
+      "x": 20,
+      "y": 82,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.910.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 21,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "577",
+      "x": 22,
+      "y": 79,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.577.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 21,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "559",
+      "x": 21,
+      "y": 14,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*559.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 21,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "40",
+      "x": 22,
+      "y": 11,
+      "length": 2,
+      "validation": {
+        "box": "...*\n.40.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 21,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "793",
+      "x": 22,
+      "y": 22,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.793.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 23,
+          "y": 25,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "296",
+      "x": 24,
+      "y": 22,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.296.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 23,
+          "y": 25,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "643",
+      "x": 22,
+      "y": 60,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.643.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 23,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "72",
+      "x": 24,
+      "y": 59,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.72.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 23,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "304",
+      "x": 22,
+      "y": 115,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*304.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 22,
+          "y": 114,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "761",
+      "x": 23,
+      "y": 111,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.761.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 22,
+          "y": 114,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "711",
+      "x": 22,
+      "y": 121,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.711.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 23,
+          "y": 121,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "16",
+      "x": 24,
+      "y": 120,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.16.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 23,
+          "y": 121,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "437",
+      "x": 22,
+      "y": 128,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.437*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 22,
+          "y": 131,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "368",
+      "x": 22,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*368.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 22,
+          "y": 131,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "406",
+      "x": 23,
+      "y": 84,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.406.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 24,
+          "y": 87,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "239",
+      "x": 25,
+      "y": 84,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.239.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 24,
+          "y": 87,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "851",
+      "x": 23,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".....\n..851\n6*...\n",
+        "valid": true,
+        "gear": {
+          "x": 24,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "426",
+      "x": 24,
+      "y": 133,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.426*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 24,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "729",
+      "x": 24,
+      "y": 66,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.729.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 25,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "672",
+      "x": 25,
+      "y": 62,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.672*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 25,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "78",
+      "x": 24,
+      "y": 90,
+      "length": 2,
+      "validation": {
+        "box": "....\n.78.\n..*.\n",
+        "valid": true,
+        "gear": {
+          "x": 25,
+          "y": 91,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "310",
+      "x": 26,
+      "y": 88,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.310.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 25,
+          "y": 91,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "494",
+      "x": 26,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.494.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 27,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "528",
+      "x": 28,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.528.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 27,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "837",
+      "x": 27,
+      "y": 16,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.837*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 27,
+          "y": 19,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "677",
+      "x": 28,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.677.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 27,
+          "y": 19,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "604",
+      "x": 27,
+      "y": 50,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.604.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 28,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "467",
+      "x": 29,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.467.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 28,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "581",
+      "x": 28,
+      "y": 33,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.581.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 29,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "563",
+      "x": 30,
+      "y": 32,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.563.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 29,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "583",
+      "x": 28,
+      "y": 82,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.583.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 29,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "841",
+      "x": 30,
+      "y": 79,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.841.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 29,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "354",
+      "x": 28,
+      "y": 120,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*354.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 28,
+          "y": 119,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "945",
+      "x": 29,
+      "y": 116,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.945.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 28,
+          "y": 119,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "808",
+      "x": 29,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.808.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 30,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "442",
+      "x": 31,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.442.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 30,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "658",
+      "x": 30,
+      "y": 7,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.658.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 10,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "106",
+      "x": 31,
+      "y": 11,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*106.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 10,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "652",
+      "x": 30,
+      "y": 75,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.652.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 77,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "594",
+      "x": 32,
+      "y": 76,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.594.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 77,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "906",
+      "x": 30,
+      "y": 122,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.906.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "460",
+      "x": 32,
+      "y": 120,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.460.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "396",
+      "x": 31,
+      "y": 28,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.396.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 32,
+          "y": 31,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "548",
+      "x": 33,
+      "y": 28,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.548.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 32,
+          "y": 31,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "106",
+      "x": 31,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*106.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "833",
+      "x": 32,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.833.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "426",
+      "x": 31,
+      "y": 66,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.426.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 32,
+          "y": 69,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "985",
+      "x": 33,
+      "y": 67,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.985.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 32,
+          "y": 69,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "310",
+      "x": 31,
+      "y": 92,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.310.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 32,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "122",
+      "x": 33,
+      "y": 90,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.122.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 32,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "238",
+      "x": 31,
+      "y": 110,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.238*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 113,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "546",
+      "x": 31,
+      "y": 114,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*546.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 31,
+          "y": 113,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "988",
+      "x": 32,
+      "y": 40,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.988.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 33,
+          "y": 39,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "704",
+      "x": 33,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.704*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 33,
+          "y": 39,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "274",
+      "x": 33,
+      "y": 62,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.274.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 34,
+          "y": 64,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "855",
+      "x": 35,
+      "y": 63,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.855.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 34,
+          "y": 64,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "575",
+      "x": 33,
+      "y": 71,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.575*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 33,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "53",
+      "x": 34,
+      "y": 75,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.53.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 33,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "574",
+      "x": 33,
+      "y": 98,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.574.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 34,
+          "y": 98,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "243",
+      "x": 35,
+      "y": 98,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.243.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 34,
+          "y": 98,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "871",
+      "x": 34,
+      "y": 6,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.871.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 35,
+          "y": 8,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "51",
+      "x": 36,
+      "y": 7,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.51.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 35,
+          "y": 8,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "466",
+      "x": 34,
+      "y": 41,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.466*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 34,
+          "y": 44,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "367",
+      "x": 34,
+      "y": 45,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*367.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 34,
+          "y": 44,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "482",
+      "x": 34,
+      "y": 50,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.482.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 35,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "281",
+      "x": 36,
+      "y": 50,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.281.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 35,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "841",
+      "x": 36,
+      "y": 22,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.841.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 37,
+          "y": 23,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "235",
+      "x": 38,
+      "y": 23,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.235.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 37,
+          "y": 23,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "7",
+      "x": 36,
+      "y": 40,
+      "length": 1,
+      "validation": {
+        "box": "...\n.7.\n..*\n",
+        "valid": true,
+        "gear": {
+          "x": 37,
+          "y": 41,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "565",
+      "x": 36,
+      "y": 42,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.565.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 37,
+          "y": 41,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "873",
+      "x": 36,
+      "y": 54,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.873*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 36,
+          "y": 57,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "305",
+      "x": 36,
+      "y": 58,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*305.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 36,
+          "y": 57,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "515",
+      "x": 37,
+      "y": 81,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.515.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 80,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "899",
+      "x": 39,
+      "y": 78,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.899.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 80,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "757",
+      "x": 38,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.757.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 39,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "73",
+      "x": 40,
+      "y": 35,
+      "length": 2,
+      "validation": {
+        "box": ".*..\n.73.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 39,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "765",
+      "x": 38,
+      "y": 59,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.765*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 62,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "237",
+      "x": 38,
+      "y": 63,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*237.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 62,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "215",
+      "x": 38,
+      "y": 92,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.215.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 39,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "10",
+      "x": 40,
+      "y": 91,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.10.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 39,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "269",
+      "x": 38,
+      "y": 122,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.269*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "812",
+      "x": 38,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*812.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "508",
+      "x": 39,
+      "y": 44,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.508*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 39,
+          "y": 47,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "202",
+      "x": 39,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*202.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 39,
+          "y": 47,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "55",
+      "x": 39,
+      "y": 116,
+      "length": 2,
+      "validation": {
+        "box": "...*\n.55.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 118,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "94",
+      "x": 39,
+      "y": 119,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.94.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 38,
+          "y": 118,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "674",
+      "x": 40,
+      "y": 106,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.674*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 40,
+          "y": 109,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "993",
+      "x": 40,
+      "y": 110,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*993.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 40,
+          "y": 109,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "343",
+      "x": 40,
+      "y": 127,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.343.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 41,
+          "y": 128,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "698",
+      "x": 42,
+      "y": 127,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.698.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 41,
+          "y": 128,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "352",
+      "x": 41,
+      "y": 80,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.352.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 42,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "532",
+      "x": 43,
+      "y": 78,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.532.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 42,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "797",
+      "x": 42,
+      "y": 1,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.797.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "684",
+      "x": 44,
+      "y": 1,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.684.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "348",
+      "x": 42,
+      "y": 59,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.348.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 59,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "77",
+      "x": 44,
+      "y": 60,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.77.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 59,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "408",
+      "x": 42,
+      "y": 64,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.408.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "220",
+      "x": 44,
+      "y": 63,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.220.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "729",
+      "x": 42,
+      "y": 90,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.729.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 90,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "326",
+      "x": 44,
+      "y": 87,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.326.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 90,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "683",
+      "x": 42,
+      "y": 104,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.683.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 105,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "836",
+      "x": 44,
+      "y": 104,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.836.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 105,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "425",
+      "x": 42,
+      "y": 111,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.425*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 42,
+          "y": 114,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "137",
+      "x": 42,
+      "y": 115,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*137.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 42,
+          "y": 114,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "988",
+      "x": 43,
+      "y": 16,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.988.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 15,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "473",
+      "x": 44,
+      "y": 12,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.473*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 15,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "964",
+      "x": 43,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.964.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "863",
+      "x": 45,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.863.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "916",
+      "x": 43,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.916.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "773",
+      "x": 45,
+      "y": 32,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.773.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "806",
+      "x": 43,
+      "y": 74,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.806.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "121",
+      "x": 45,
+      "y": 75,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.121.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "834",
+      "x": 44,
+      "y": 6,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.834.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 45,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "304",
+      "x": 46,
+      "y": 7,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.304.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 45,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "892",
+      "x": 44,
+      "y": 44,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.892.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 45,
+          "y": 46,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "367",
+      "x": 46,
+      "y": 47,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.367.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 45,
+          "y": 46,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "372",
+      "x": 44,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.372.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "448",
+      "x": 44,
+      "y": 52,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.448.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 43,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "994",
+      "x": 44,
+      "y": 125,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.994.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 45,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "631",
+      "x": 46,
+      "y": 124,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.631.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 45,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "786",
+      "x": 44,
+      "y": 133,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*786.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "334",
+      "x": 45,
+      "y": 129,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.334.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 44,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "535",
+      "x": 45,
+      "y": 80,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.535.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 46,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "594",
+      "x": 47,
+      "y": 81,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.594.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 46,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "46",
+      "x": 45,
+      "y": 101,
+      "length": 2,
+      "validation": {
+        "box": "....\n.46.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 46,
+          "y": 100,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "169",
+      "x": 47,
+      "y": 98,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.169.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 46,
+          "y": 100,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "706",
+      "x": 45,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.706.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 46,
+          "y": 109,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "13",
+      "x": 47,
+      "y": 107,
+      "length": 2,
+      "validation": {
+        "box": "...*\n.13.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 46,
+          "y": 109,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "172",
+      "x": 48,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.172.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "780",
+      "x": 49,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.780*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "419",
+      "x": 48,
+      "y": 45,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.419.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "823",
+      "x": 50,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.823.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "380",
+      "x": 48,
+      "y": 50,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.380.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "770",
+      "x": 50,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.770.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "245",
+      "x": 48,
+      "y": 55,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.245*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 48,
+          "y": 58,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "860",
+      "x": 48,
+      "y": 59,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*860.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 48,
+          "y": 58,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "52",
+      "x": 49,
+      "y": 4,
+      "length": 2,
+      "validation": {
+        "box": "....\n.52.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 6,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "555",
+      "x": 49,
+      "y": 7,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.555.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 6,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "398",
+      "x": 49,
+      "y": 81,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.398*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 84,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "245",
+      "x": 49,
+      "y": 85,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*245.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 49,
+          "y": 84,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "61",
+      "x": 49,
+      "y": 120,
+      "length": 2,
+      "validation": {
+        "box": "....\n.61.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "196",
+      "x": 49,
+      "y": 123,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.196.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "396",
+      "x": 50,
+      "y": 108,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.396*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "975",
+      "x": 50,
+      "y": 112,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*975.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "968",
+      "x": 50,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.*968\n1....\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "461",
+      "x": 51,
+      "y": 133,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.461.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 50,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "959",
+      "x": 51,
+      "y": 90,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.959.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 52,
+          "y": 93,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "457",
+      "x": 53,
+      "y": 93,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.457.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 52,
+          "y": 93,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "344",
+      "x": 52,
+      "y": 103,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.344.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "798",
+      "x": 54,
+      "y": 105,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.798.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "660",
+      "x": 52,
+      "y": 122,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.660.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 123,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "69",
+      "x": 54,
+      "y": 124,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.69.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 123,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "699",
+      "x": 52,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": "1....\n..699\n3*...\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "893",
+      "x": 53,
+      "y": 133,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.893*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "480",
+      "x": 53,
+      "y": 12,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.480*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 15,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "989",
+      "x": 53,
+      "y": 16,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*989.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 53,
+          "y": 15,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "194",
+      "x": 53,
+      "y": 82,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.194.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 54,
+          "y": 83,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "439",
+      "x": 55,
+      "y": 84,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.439.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 54,
+          "y": 83,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "339",
+      "x": 54,
+      "y": 1,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.339.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 55,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "702",
+      "x": 55,
+      "y": 5,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*702.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 55,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "668",
+      "x": 54,
+      "y": 119,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.668.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 55,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "547",
+      "x": 56,
+      "y": 122,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.547.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 55,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "661",
+      "x": 56,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.661.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "682",
+      "x": 58,
+      "y": 22,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.682.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "457",
+      "x": 56,
+      "y": 79,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.457.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "704",
+      "x": 58,
+      "y": 78,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.704.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "769",
+      "x": 56,
+      "y": 91,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.769*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 56,
+          "y": 94,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "245",
+      "x": 57,
+      "y": 95,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.245.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 56,
+          "y": 94,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "474",
+      "x": 56,
+      "y": 103,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.474*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 56,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "769",
+      "x": 56,
+      "y": 107,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*769.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 56,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "331",
+      "x": 56,
+      "y": 133,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.331.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 133,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "715",
+      "x": 58,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.715.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 133,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "136",
+      "x": 57,
+      "y": 0,
+      "length": 3,
+      "validation": {
+        "box": ".....\n1136.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 58,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "361",
+      "x": 57,
+      "y": 4,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.361.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 58,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "739",
+      "x": 57,
+      "y": 54,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.739.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 58,
+          "y": 57,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "769",
+      "x": 57,
+      "y": 58,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.769.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 58,
+          "y": 57,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "218",
+      "x": 57,
+      "y": 113,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*218.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 112,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "892",
+      "x": 58,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.892.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 57,
+          "y": 112,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "746",
+      "x": 58,
+      "y": 28,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.746.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 59,
+          "y": 30,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "565",
+      "x": 60,
+      "y": 31,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.565.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 59,
+          "y": 30,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "231",
+      "x": 58,
+      "y": 90,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.231.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 59,
+          "y": 89,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "342",
+      "x": 60,
+      "y": 90,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.342.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 59,
+          "y": 89,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "415",
+      "x": 59,
+      "y": 8,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*415.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 59,
+          "y": 7,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "831",
+      "x": 60,
+      "y": 4,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.831.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 59,
+          "y": 7,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "985",
+      "x": 59,
+      "y": 118,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.985.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 60,
+          "y": 120,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "418",
+      "x": 61,
+      "y": 119,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.418.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 60,
+          "y": 120,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "510",
+      "x": 60,
+      "y": 14,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.510.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 14,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "706",
+      "x": 62,
+      "y": 13,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.706.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 14,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "444",
+      "x": 60,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.444.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "305",
+      "x": 62,
+      "y": 18,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.305.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "3",
+      "x": 60,
+      "y": 51,
+      "length": 1,
+      "validation": {
+        "box": "...\n.3.\n.*.\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "623",
+      "x": 62,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.623.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "334",
+      "x": 60,
+      "y": 57,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.334.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "957",
+      "x": 62,
+      "y": 55,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.957.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "558",
+      "x": 60,
+      "y": 66,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.558.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "2",
+      "x": 62,
+      "y": 64,
+      "length": 1,
+      "validation": {
+        "box": "..*\n.2.\n...\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "815",
+      "x": 60,
+      "y": 128,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.815.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 128,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "218",
+      "x": 62,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.218.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 61,
+          "y": 128,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "515",
+      "x": 62,
+      "y": 8,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.515.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 63,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "822",
+      "x": 64,
+      "y": 10,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.822.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 63,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "243",
+      "x": 62,
+      "y": 99,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.243.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 63,
+          "y": 98,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "449",
+      "x": 63,
+      "y": 95,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.449*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 63,
+          "y": 98,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "773",
+      "x": 63,
+      "y": 25,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.773.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 64,
+          "y": 28,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "623",
+      "x": 65,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.623.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 64,
+          "y": 28,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "88",
+      "x": 63,
+      "y": 75,
+      "length": 2,
+      "validation": {
+        "box": "....\n.88.\n.*..\n",
+        "valid": true,
+        "gear": {
+          "x": 64,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "610",
+      "x": 65,
+      "y": 73,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.610.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 64,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "8",
+      "x": 64,
+      "y": 49,
+      "length": 1,
+      "validation": {
+        "box": "...\n.8.\n*..\n",
+        "valid": true,
+        "gear": {
+          "x": 65,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "259",
+      "x": 66,
+      "y": 46,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.259.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 65,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "58",
+      "x": 64,
+      "y": 58,
+      "length": 2,
+      "validation": {
+        "box": "....\n.58*\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 64,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "102",
+      "x": 64,
+      "y": 61,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*102.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 64,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "349",
+      "x": 65,
+      "y": 2,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.349.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "839",
+      "x": 67,
+      "y": 2,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.839.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "719",
+      "x": 65,
+      "y": 6,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.719.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 6,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "768",
+      "x": 67,
+      "y": 6,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.768.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 6,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "873",
+      "x": 65,
+      "y": 80,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.873.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "951",
+      "x": 67,
+      "y": 79,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.951.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "423",
+      "x": 66,
+      "y": 33,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.423*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "214",
+      "x": 66,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*214.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 66,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "426",
+      "x": 66,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.426.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 67,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "287",
+      "x": 68,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.287.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 67,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "140",
+      "x": 66,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".....\n..140\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 67,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "925",
+      "x": 68,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.925.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 67,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "632",
+      "x": 67,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.632.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 68,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "246",
+      "x": 69,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.246.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 68,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "893",
+      "x": 68,
+      "y": 39,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.893.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 40,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "437",
+      "x": 70,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.437.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 40,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "149",
+      "x": 68,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.149.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 127,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "71",
+      "x": 70,
+      "y": 128,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.71.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 127,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "48",
+      "x": 69,
+      "y": 25,
+      "length": 2,
+      "validation": {
+        "box": "....\n*48.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "282",
+      "x": 70,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.282.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "844",
+      "x": 69,
+      "y": 79,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.844*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "368",
+      "x": 69,
+      "y": 83,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*368.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 69,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "48",
+      "x": 69,
+      "y": 109,
+      "length": 2,
+      "validation": {
+        "box": "....\n.48.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 70,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "791",
+      "x": 71,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.791.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 70,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "777",
+      "x": 69,
+      "y": 115,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.777.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 70,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "29",
+      "x": 71,
+      "y": 117,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.29.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 70,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "561",
+      "x": 70,
+      "y": 67,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.561.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 71,
+          "y": 68,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "259",
+      "x": 72,
+      "y": 68,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.259.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 71,
+          "y": 68,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "257",
+      "x": 70,
+      "y": 120,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.257*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 70,
+          "y": 123,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "358",
+      "x": 71,
+      "y": 124,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.358.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 70,
+          "y": 123,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "131",
+      "x": 71,
+      "y": 17,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.131.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 72,
+          "y": 20,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "949",
+      "x": 73,
+      "y": 18,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.949.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 72,
+          "y": 20,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "892",
+      "x": 72,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.892.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 73,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "570",
+      "x": 74,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.570.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 73,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "661",
+      "x": 72,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.661.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 73,
+          "y": 49,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "705",
+      "x": 74,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.705.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 73,
+          "y": 49,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "630",
+      "x": 72,
+      "y": 120,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.630.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 73,
+          "y": 121,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "528",
+      "x": 74,
+      "y": 120,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.528.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 73,
+          "y": 121,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "36",
+      "x": 74,
+      "y": 54,
+      "length": 2,
+      "validation": {
+        "box": "....\n.36.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 75,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "86",
+      "x": 74,
+      "y": 57,
+      "length": 2,
+      "validation": {
+        "box": "....\n.86.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 75,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "253",
+      "x": 75,
+      "y": 5,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.253.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 76,
+          "y": 5,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "252",
+      "x": 77,
+      "y": 5,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.252.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 76,
+          "y": 5,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "506",
+      "x": 75,
+      "y": 60,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.506.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 76,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "918",
+      "x": 75,
+      "y": 64,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.918.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 76,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "862",
+      "x": 75,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.862.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 76,
+          "y": 108,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "148",
+      "x": 77,
+      "y": 105,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.148.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 76,
+          "y": 108,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "300",
+      "x": 76,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.300.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 77,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "431",
+      "x": 78,
+      "y": 35,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.431.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 77,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "24",
+      "x": 77,
+      "y": 111,
+      "length": 2,
+      "validation": {
+        "box": "....\n.24.\n.*..\n",
+        "valid": true,
+        "gear": {
+          "x": 78,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "110",
+      "x": 79,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.110.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 78,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "147",
+      "x": 77,
+      "y": 127,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.147*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 77,
+          "y": 130,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "748",
+      "x": 77,
+      "y": 131,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*748.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 77,
+          "y": 130,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "851",
+      "x": 77,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".....\n..851\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 78,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "382",
+      "x": 79,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n..382\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 78,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "713",
+      "x": 78,
+      "y": 60,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.713.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 79,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "897",
+      "x": 80,
+      "y": 61,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.897.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 79,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "366",
+      "x": 78,
+      "y": 71,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.366.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 79,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "115",
+      "x": 80,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.115.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 79,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "727",
+      "x": 79,
+      "y": 87,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.727.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 86,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "716",
+      "x": 80,
+      "y": 83,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.716*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 86,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "27",
+      "x": 79,
+      "y": 104,
+      "length": 2,
+      "validation": {
+        "box": "....\n.27.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "885",
+      "x": 81,
+      "y": 107,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.885.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "904",
+      "x": 79,
+      "y": 125,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.904.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 127,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "951",
+      "x": 81,
+      "y": 128,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.951.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 127,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "345",
+      "x": 79,
+      "y": 131,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.345.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "669",
+      "x": 81,
+      "y": 135,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.669.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "987",
+      "x": 80,
+      "y": 18,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.987.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 79,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "829",
+      "x": 80,
+      "y": 22,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.829.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 79,
+          "y": 21,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "517",
+      "x": 80,
+      "y": 43,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.517*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 46,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "519",
+      "x": 80,
+      "y": 47,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*519.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 80,
+          "y": 46,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "405",
+      "x": 80,
+      "y": 51,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.405.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 81,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "741",
+      "x": 82,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.741.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 81,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "978",
+      "x": 81,
+      "y": 65,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.978.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 82,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "89",
+      "x": 83,
+      "y": 65,
+      "length": 2,
+      "validation": {
+        "box": ".*..\n.89.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 82,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "105",
+      "x": 82,
+      "y": 33,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.105.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 34,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "26",
+      "x": 84,
+      "y": 33,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.26.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 34,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "807",
+      "x": 82,
+      "y": 43,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.807.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 46,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "341",
+      "x": 84,
+      "y": 45,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.341.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 46,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "695",
+      "x": 82,
+      "y": 98,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.695.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 97,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "849",
+      "x": 83,
+      "y": 94,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.849*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 97,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "907",
+      "x": 83,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.907*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 40,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "678",
+      "x": 84,
+      "y": 41,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.678.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 40,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "111",
+      "x": 83,
+      "y": 57,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.111.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 82,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "215",
+      "x": 83,
+      "y": 61,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.215.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 82,
+          "y": 60,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "119",
+      "x": 83,
+      "y": 118,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.119.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 84,
+          "y": 120,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "406",
+      "x": 85,
+      "y": 120,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.406.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 84,
+          "y": 120,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "62",
+      "x": 84,
+      "y": 7,
+      "length": 2,
+      "validation": {
+        "box": "....\n.62.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 85,
+          "y": 6,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "20",
+      "x": 85,
+      "y": 4,
+      "length": 2,
+      "validation": {
+        "box": "....\n.20*\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 85,
+          "y": 6,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "155",
+      "x": 84,
+      "y": 23,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.155.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 85,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "628",
+      "x": 86,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.628.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 85,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "998",
+      "x": 84,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.998.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "107",
+      "x": 84,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.107.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 83,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "9",
+      "x": 84,
+      "y": 115,
+      "length": 1,
+      "validation": {
+        "box": "...\n.9.\n..*\n",
+        "valid": true,
+        "gear": {
+          "x": 85,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "791",
+      "x": 86,
+      "y": 115,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.791.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 85,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "441",
+      "x": 85,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.441.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 86,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "722",
+      "x": 87,
+      "y": 125,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.722.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 86,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "942",
+      "x": 86,
+      "y": 30,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.942.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 87,
+          "y": 29,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "635",
+      "x": 88,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.635.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 87,
+          "y": 29,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "424",
+      "x": 86,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.424.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 87,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "656",
+      "x": 88,
+      "y": 136,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n..656\n9....\n",
+        "valid": true,
+        "gear": {
+          "x": 87,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "851",
+      "x": 87,
+      "y": 1,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.851.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "27",
+      "x": 87,
+      "y": 5,
+      "length": 2,
+      "validation": {
+        "box": "....\n.27.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "91",
+      "x": 87,
+      "y": 60,
+      "length": 2,
+      "validation": {
+        "box": "....\n.91.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 59,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "944",
+      "x": 89,
+      "y": 56,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.944.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 59,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "706",
+      "x": 87,
+      "y": 97,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.706.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 99,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "829",
+      "x": 89,
+      "y": 99,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.829.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 99,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "458",
+      "x": 87,
+      "y": 111,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.458.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 113,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "566",
+      "x": 89,
+      "y": 114,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.566.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 113,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "57",
+      "x": 89,
+      "y": 45,
+      "length": 2,
+      "validation": {
+        "box": "...*\n.57.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 47,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "115",
+      "x": 89,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.115.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 88,
+          "y": 47,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "773",
+      "x": 89,
+      "y": 52,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.773.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 54,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "709",
+      "x": 91,
+      "y": 52,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.709.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 54,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "107",
+      "x": 89,
+      "y": 61,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.107.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "671",
+      "x": 91,
+      "y": 60,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.671.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 63,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "971",
+      "x": 89,
+      "y": 94,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.971.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 93,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "427",
+      "x": 91,
+      "y": 93,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.427.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 93,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "75",
+      "x": 89,
+      "y": 127,
+      "length": 2,
+      "validation": {
+        "box": "....\n.75.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "587",
+      "x": 91,
+      "y": 124,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.587.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 90,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "646",
+      "x": 90,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.646.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 91,
+          "y": 20,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "799",
+      "x": 92,
+      "y": 19,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.799.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 91,
+          "y": 20,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "762",
+      "x": 90,
+      "y": 37,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.762.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 91,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "741",
+      "x": 92,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.741.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 91,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "226",
+      "x": 91,
+      "y": 44,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.226.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 92,
+          "y": 43,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "600",
+      "x": 92,
+      "y": 40,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.600*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 92,
+          "y": 43,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "159",
+      "x": 91,
+      "y": 75,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.159.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 92,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "847",
+      "x": 93,
+      "y": 75,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.847.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 92,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "645",
+      "x": 91,
+      "y": 119,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.645.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 92,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "380",
+      "x": 93,
+      "y": 119,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.380.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 92,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "973",
+      "x": 92,
+      "y": 10,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.973.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 93,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "866",
+      "x": 92,
+      "y": 14,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.866.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 93,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "565",
+      "x": 92,
+      "y": 105,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.565.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 93,
+          "y": 108,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "610",
+      "x": 94,
+      "y": 107,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.610.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 93,
+          "y": 108,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "654",
+      "x": 92,
+      "y": 131,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.654.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 93,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "778",
+      "x": 92,
+      "y": 135,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.778.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 93,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "53",
+      "x": 94,
+      "y": 20,
+      "length": 2,
+      "validation": {
+        "box": "....\n.53.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 22,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "783",
+      "x": 96,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.783.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 22,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "206",
+      "x": 94,
+      "y": 29,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.206.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 29,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "512",
+      "x": 96,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.512.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 29,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "136",
+      "x": 94,
+      "y": 96,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.136.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 98,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "658",
+      "x": 96,
+      "y": 97,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.658.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 98,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "85",
+      "x": 94,
+      "y": 123,
+      "length": 2,
+      "validation": {
+        "box": "....\n.85.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "176",
+      "x": 95,
+      "y": 119,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.176*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "200",
+      "x": 95,
+      "y": 12,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.200.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 96,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "560",
+      "x": 97,
+      "y": 14,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.560.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 96,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "236",
+      "x": 95,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.236*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "511",
+      "x": 95,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*511.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "591",
+      "x": 95,
+      "y": 89,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.591*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "381",
+      "x": 96,
+      "y": 93,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.381.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 95,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "292",
+      "x": 95,
+      "y": 103,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.292.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 96,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "734",
+      "x": 97,
+      "y": 104,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.734.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 96,
+          "y": 106,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "571",
+      "x": 95,
+      "y": 130,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.571.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 96,
+          "y": 129,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "570",
+      "x": 97,
+      "y": 128,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.570.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 96,
+          "y": 129,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "86",
+      "x": 96,
+      "y": 66,
+      "length": 2,
+      "validation": {
+        "box": "....\n.86.\n.*..\n",
+        "valid": true,
+        "gear": {
+          "x": 97,
+          "y": 66,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "638",
+      "x": 98,
+      "y": 64,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.638.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 97,
+          "y": 66,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "17",
+      "x": 96,
+      "y": 116,
+      "length": 2,
+      "validation": {
+        "box": "....\n.17.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 97,
+          "y": 115,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "843",
+      "x": 98,
+      "y": 116,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.843.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 97,
+          "y": 115,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "758",
+      "x": 96,
+      "y": 124,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.758.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 97,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "722",
+      "x": 98,
+      "y": 124,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.722.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 97,
+          "y": 126,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "646",
+      "x": 97,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.646.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 98,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "816",
+      "x": 99,
+      "y": 48,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.816.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 98,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "417",
+      "x": 98,
+      "y": 4,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.417.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 99,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "646",
+      "x": 100,
+      "y": 3,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.646.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 99,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "696",
+      "x": 98,
+      "y": 73,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.696.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 99,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "92",
+      "x": 100,
+      "y": 75,
+      "length": 2,
+      "validation": {
+        "box": ".*..\n.92.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 99,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "816",
+      "x": 99,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.816.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 100,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "700",
+      "x": 101,
+      "y": 55,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.700.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 100,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "3",
+      "x": 99,
+      "y": 133,
+      "length": 1,
+      "validation": {
+        "box": "...\n.3.\n*..\n",
+        "valid": true,
+        "gear": {
+          "x": 100,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "621",
+      "x": 101,
+      "y": 130,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.621.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 100,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "646",
+      "x": 100,
+      "y": 8,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.646.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 99,
+          "y": 11,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "389",
+      "x": 100,
+      "y": 12,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.389.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 99,
+          "y": 11,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "990",
+      "x": 100,
+      "y": 65,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.990.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 101,
+          "y": 66,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "305",
+      "x": 102,
+      "y": 63,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.305.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 101,
+          "y": 66,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "185",
+      "x": 100,
+      "y": 117,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.185.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 101,
+          "y": 117,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "477",
+      "x": 102,
+      "y": 116,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.477.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 101,
+          "y": 117,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "966",
+      "x": 101,
+      "y": 17,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.966.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 102,
+          "y": 18,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "725",
+      "x": 103,
+      "y": 17,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.725.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 102,
+          "y": 18,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "873",
+      "x": 102,
+      "y": 2,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.873.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 5,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "661",
+      "x": 104,
+      "y": 5,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.661.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 5,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "290",
+      "x": 102,
+      "y": 29,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.290.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 32,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "373",
+      "x": 104,
+      "y": 32,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.373.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 32,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "719",
+      "x": 102,
+      "y": 74,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.719.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "468",
+      "x": 104,
+      "y": 75,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.468.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "657",
+      "x": 102,
+      "y": 93,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.657.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "841",
+      "x": 104,
+      "y": 90,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.841.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 103,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "295",
+      "x": 103,
+      "y": 124,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.295.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 104,
+          "y": 123,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "329",
+      "x": 105,
+      "y": 123,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.329.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 104,
+          "y": 123,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "919",
+      "x": 104,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.919*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 104,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "92",
+      "x": 104,
+      "y": 25,
+      "length": 2,
+      "validation": {
+        "box": "....\n*92.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 104,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "917",
+      "x": 104,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.917*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 104,
+          "y": 39,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "9",
+      "x": 105,
+      "y": 40,
+      "length": 1,
+      "validation": {
+        "box": "*..\n.9.\n...\n",
+        "valid": true,
+        "gear": {
+          "x": 104,
+          "y": 39,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "680",
+      "x": 104,
+      "y": 94,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.680.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 105,
+          "y": 95,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "819",
+      "x": 106,
+      "y": 93,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.819.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 105,
+          "y": 95,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "197",
+      "x": 104,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.197.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 105,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "242",
+      "x": 106,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.242.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 105,
+          "y": 132,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "189",
+      "x": 106,
+      "y": 25,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*189.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 106,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "139",
+      "x": 107,
+      "y": 21,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.139.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 106,
+          "y": 24,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "961",
+      "x": 106,
+      "y": 73,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.961.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 107,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "885",
+      "x": 108,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.885.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 107,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "294",
+      "x": 106,
+      "y": 100,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.294*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 106,
+          "y": 103,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "215",
+      "x": 107,
+      "y": 104,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.215.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 106,
+          "y": 103,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "607",
+      "x": 107,
+      "y": 30,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.607.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 106,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "41",
+      "x": 107,
+      "y": 34,
+      "length": 2,
+      "validation": {
+        "box": "*...\n.41.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 106,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "528",
+      "x": 107,
+      "y": 65,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.528.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 108,
+          "y": 64,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "144",
+      "x": 109,
+      "y": 61,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.144.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 108,
+          "y": 64,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "70",
+      "x": 107,
+      "y": 87,
+      "length": 2,
+      "validation": {
+        "box": "....\n.70.\n..*.\n",
+        "valid": true,
+        "gear": {
+          "x": 108,
+          "y": 88,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "801",
+      "x": 109,
+      "y": 87,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.801.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 108,
+          "y": 88,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "581",
+      "x": 109,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.581.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 110,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "415",
+      "x": 111,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.415.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 110,
+          "y": 35,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "802",
+      "x": 109,
+      "y": 134,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.802.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 110,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "913",
+      "x": 111,
+      "y": 133,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.913.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 110,
+          "y": 136,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "133",
+      "x": 110,
+      "y": 5,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.133.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 5,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "206",
+      "x": 112,
+      "y": 2,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.206.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 5,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "40",
+      "x": 110,
+      "y": 9,
+      "length": 2,
+      "validation": {
+        "box": "....\n.40.\n.*..\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "147",
+      "x": 112,
+      "y": 10,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.147.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "769",
+      "x": 110,
+      "y": 81,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.769.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "749",
+      "x": 112,
+      "y": 78,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.749.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 81,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "511",
+      "x": 110,
+      "y": 91,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.511.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "569",
+      "x": 112,
+      "y": 89,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.569.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 111,
+          "y": 92,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "707",
+      "x": 110,
+      "y": 100,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.707*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 110,
+          "y": 103,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "467",
+      "x": 111,
+      "y": 104,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.467.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 110,
+          "y": 103,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "151",
+      "x": 111,
+      "y": 85,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.151.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 112,
+          "y": 84,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "824",
+      "x": 113,
+      "y": 82,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.824.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 112,
+          "y": 84,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "338",
+      "x": 112,
+      "y": 23,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.338.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 113,
+          "y": 23,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "38",
+      "x": 114,
+      "y": 22,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.38.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 113,
+          "y": 23,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "958",
+      "x": 112,
+      "y": 65,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.958.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 113,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "674",
+      "x": 114,
+      "y": 64,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.674.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 113,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "894",
+      "x": 113,
+      "y": 122,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.894.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 114,
+          "y": 121,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "174",
+      "x": 115,
+      "y": 122,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.174.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 114,
+          "y": 121,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "796",
+      "x": 114,
+      "y": 34,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.796.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 113,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "852",
+      "x": 114,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.852.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 113,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "974",
+      "x": 114,
+      "y": 68,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.974.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 115,
+          "y": 69,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "808",
+      "x": 116,
+      "y": 66,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.808.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 115,
+          "y": 69,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "259",
+      "x": 114,
+      "y": 113,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*259.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 114,
+          "y": 112,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "329",
+      "x": 115,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.329.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 114,
+          "y": 112,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "941",
+      "x": 115,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.941.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 30,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "741",
+      "x": 116,
+      "y": 31,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*741.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 30,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "564",
+      "x": 115,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.564.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "430",
+      "x": 117,
+      "y": 52,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.430.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "311",
+      "x": 115,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.311.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 71,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "937",
+      "x": 117,
+      "y": 70,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.937.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 71,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "905",
+      "x": 115,
+      "y": 76,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.905.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 78,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "231",
+      "x": 117,
+      "y": 76,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.231.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 78,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "382",
+      "x": 115,
+      "y": 85,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.382.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 87,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "752",
+      "x": 117,
+      "y": 87,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.752.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 87,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "873",
+      "x": 115,
+      "y": 131,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.873.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 130,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "269",
+      "x": 116,
+      "y": 127,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.269*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 116,
+          "y": 130,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "308",
+      "x": 117,
+      "y": 3,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.308.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "20",
+      "x": 119,
+      "y": 3,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.20.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 4,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "524",
+      "x": 117,
+      "y": 35,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.524.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "261",
+      "x": 119,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.261.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 36,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "452",
+      "x": 117,
+      "y": 41,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.452.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 42,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "943",
+      "x": 119,
+      "y": 40,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.943.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 42,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "93",
+      "x": 117,
+      "y": 134,
+      "length": 2,
+      "validation": {
+        "box": "....\n.93.\n*...\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 133,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "760",
+      "x": 119,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.760.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 118,
+          "y": 133,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "619",
+      "x": 118,
+      "y": 80,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.619.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 119,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "811",
+      "x": 120,
+      "y": 81,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.811.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 119,
+          "y": 82,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "610",
+      "x": 118,
+      "y": 115,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.610.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 119,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "10",
+      "x": 120,
+      "y": 116,
+      "length": 2,
+      "validation": {
+        "box": ".*..\n.10.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 119,
+          "y": 116,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "886",
+      "x": 119,
+      "y": 8,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.886.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 120,
+          "y": 8,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "309",
+      "x": 121,
+      "y": 8,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.309.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 120,
+          "y": 8,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "137",
+      "x": 119,
+      "y": 105,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.137.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 120,
+          "y": 107,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "876",
+      "x": 121,
+      "y": 107,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.876.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 120,
+          "y": 107,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "205",
+      "x": 119,
+      "y": 123,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.205.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 120,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "891",
+      "x": 121,
+      "y": 122,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.891.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 120,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "331",
+      "x": 121,
+      "y": 46,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.331.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 45,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "726",
+      "x": 123,
+      "y": 42,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.726.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 45,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "659",
+      "x": 121,
+      "y": 76,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.659.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "990",
+      "x": 123,
+      "y": 78,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.990.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "440",
+      "x": 121,
+      "y": 112,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.440.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 113,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "121",
+      "x": 123,
+      "y": 111,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.121.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 113,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "198",
+      "x": 122,
+      "y": 23,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.198.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 123,
+          "y": 26,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "281",
+      "x": 123,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*281.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 123,
+          "y": 26,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "711",
+      "x": 122,
+      "y": 59,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.711*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 62,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "629",
+      "x": 122,
+      "y": 63,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*629.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 122,
+          "y": 62,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "837",
+      "x": 122,
+      "y": 84,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.837.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 123,
+          "y": 83,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "96",
+      "x": 124,
+      "y": 82,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.96.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 123,
+          "y": 83,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "330",
+      "x": 123,
+      "y": 31,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.330.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "843",
+      "x": 125,
+      "y": 32,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.843.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 33,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "423",
+      "x": 123,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.423.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "794",
+      "x": 125,
+      "y": 36,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.794.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 37,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "530",
+      "x": 123,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.530.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "201",
+      "x": 125,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.201.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 48,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "344",
+      "x": 123,
+      "y": 132,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.344.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 131,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "865",
+      "x": 125,
+      "y": 129,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.865.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 124,
+          "y": 131,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "419",
+      "x": 124,
+      "y": 5,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.419.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 125,
+          "y": 7,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "164",
+      "x": 126,
+      "y": 4,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.164.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 125,
+          "y": 7,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "904",
+      "x": 124,
+      "y": 67,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.904.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 125,
+          "y": 66,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "180",
+      "x": 126,
+      "y": 67,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.180.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 125,
+          "y": 66,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "422",
+      "x": 124,
+      "y": 86,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.422.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 125,
+          "y": 88,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "619",
+      "x": 126,
+      "y": 88,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.619.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 125,
+          "y": 88,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "95",
+      "x": 126,
+      "y": 11,
+      "length": 2,
+      "validation": {
+        "box": "....\n.95.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "814",
+      "x": 126,
+      "y": 14,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.814.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 13,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "332",
+      "x": 126,
+      "y": 45,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*332.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 126,
+          "y": 44,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "81",
+      "x": 127,
+      "y": 42,
+      "length": 2,
+      "validation": {
+        "box": "...*\n.81.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 126,
+          "y": 44,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "739",
+      "x": 126,
+      "y": 75,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.739.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "851",
+      "x": 128,
+      "y": 73,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.851.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 74,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "464",
+      "x": 126,
+      "y": 84,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.464.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 85,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "254",
+      "x": 128,
+      "y": 83,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.254.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 85,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "368",
+      "x": 127,
+      "y": 120,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.368.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 128,
+          "y": 119,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "860",
+      "x": 128,
+      "y": 116,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.860*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 128,
+          "y": 119,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "755",
+      "x": 128,
+      "y": 9,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.755.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 129,
+          "y": 10,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "569",
+      "x": 130,
+      "y": 7,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.569.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 129,
+          "y": 10,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "738",
+      "x": 128,
+      "y": 20,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.738.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 23,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "329",
+      "x": 128,
+      "y": 24,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.329.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 127,
+          "y": 23,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "917",
+      "x": 128,
+      "y": 92,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.917.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 129,
+          "y": 95,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "152",
+      "x": 128,
+      "y": 96,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.152.\n*....\n",
+        "valid": true,
+        "gear": {
+          "x": 129,
+          "y": 95,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "774",
+      "x": 128,
+      "y": 131,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.774.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 129,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "841",
+      "x": 130,
+      "y": 135,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.841.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 129,
+          "y": 134,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "173",
+      "x": 129,
+      "y": 51,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.173.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 130,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "458",
+      "x": 131,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.458.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 130,
+          "y": 52,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "960",
+      "x": 130,
+      "y": 2,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.960.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "648",
+      "x": 132,
+      "y": 2,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.648.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 3,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "888",
+      "x": 130,
+      "y": 15,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.888.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 18,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "63",
+      "x": 132,
+      "y": 17,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.63.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 18,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "975",
+      "x": 130,
+      "y": 124,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.975.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "805",
+      "x": 132,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.805.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 125,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "817",
+      "x": 131,
+      "y": 57,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*817.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "229",
+      "x": 132,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.229.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 131,
+          "y": 56,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "668",
+      "x": 131,
+      "y": 66,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.668.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 132,
+          "y": 69,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "78",
+      "x": 133,
+      "y": 68,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.78.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 132,
+          "y": 69,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "882",
+      "x": 131,
+      "y": 79,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.882.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 132,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "141",
+      "x": 133,
+      "y": 78,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.141.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 132,
+          "y": 79,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "710",
+      "x": 131,
+      "y": 83,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.710.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 132,
+          "y": 86,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "910",
+      "x": 132,
+      "y": 87,
+      "length": 3,
+      "validation": {
+        "box": ".....\n*910.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 132,
+          "y": 86,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "237",
+      "x": 132,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.237.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 39,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "111",
+      "x": 134,
+      "y": 38,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.111.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 39,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "632",
+      "x": 132,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.632.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "740",
+      "x": 134,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.740.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 75,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "405",
+      "x": 132,
+      "y": 93,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.405.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 95,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "74",
+      "x": 134,
+      "y": 94,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.74.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 95,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "984",
+      "x": 133,
+      "y": 49,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.984.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 134,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "454",
+      "x": 135,
+      "y": 50,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.454.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 134,
+          "y": 51,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "417",
+      "x": 133,
+      "y": 62,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.417.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 134,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "291",
+      "x": 135,
+      "y": 65,
+      "length": 3,
+      "validation": {
+        "box": ".*...\n.291.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 134,
+          "y": 65,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "46",
+      "x": 133,
+      "y": 100,
+      "length": 2,
+      "validation": {
+        "box": "....\n.46.\n...*\n",
+        "valid": true,
+        "gear": {
+          "x": 134,
+          "y": 102,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "172",
+      "x": 135,
+      "y": 101,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.172.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 134,
+          "y": 102,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "786",
+      "x": 133,
+      "y": 119,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.786*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "88",
+      "x": 133,
+      "y": 123,
+      "length": 2,
+      "validation": {
+        "box": "....\n*88.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 133,
+          "y": 122,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "430",
+      "x": 134,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.430.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 135,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "434",
+      "x": 136,
+      "y": 109,
+      "length": 3,
+      "validation": {
+        "box": "...*.\n.434.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 135,
+          "y": 111,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "594",
+      "x": 134,
+      "y": 126,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.594.\n....*\n",
+        "valid": true,
+        "gear": {
+          "x": 135,
+          "y": 129,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "16",
+      "x": 136,
+      "y": 128,
+      "length": 2,
+      "validation": {
+        "box": "..*.\n.16.\n....\n",
+        "valid": true,
+        "gear": {
+          "x": 135,
+          "y": 129,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "671",
+      "x": 136,
+      "y": 24,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.671.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 137,
+          "y": 26,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "496",
+      "x": 138,
+      "y": 27,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.496.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 137,
+          "y": 26,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "928",
+      "x": 136,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.928.\n..*..\n",
+        "valid": true,
+        "gear": {
+          "x": 137,
+          "y": 73,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "958",
+      "x": 138,
+      "y": 72,
+      "length": 3,
+      "validation": {
+        "box": "..*..\n.958.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 137,
+          "y": 73,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "538",
+      "x": 137,
+      "y": 6,
+      "length": 3,
+      "validation": {
+        "box": "....*\n.538.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 136,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "581",
+      "x": 137,
+      "y": 10,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.581.\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 136,
+          "y": 9,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "168",
+      "x": 137,
+      "y": 53,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.168.\n...*.\n",
+        "valid": true,
+        "gear": {
+          "x": 138,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "195",
+      "x": 139,
+      "y": 56,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.195.\n\n",
+        "valid": true,
+        "gear": {
+          "x": 138,
+          "y": 55,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "192",
+      "x": 137,
+      "y": 86,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.192.\n.*...\n",
+        "valid": true,
+        "gear": {
+          "x": 138,
+          "y": 86,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "90",
+      "x": 139,
+      "y": 84,
+      "length": 2,
+      "validation": {
+        "box": "...*\n.90.\n\n",
+        "valid": true,
+        "gear": {
+          "x": 138,
+          "y": 86,
+          "value": "*"
+        }
+      }
+    }
+  },
+  {
+    "a": {
+      "number": "346",
+      "x": 138,
+      "y": 31,
+      "length": 3,
+      "validation": {
+        "box": ".....\n.346*\n.....\n",
+        "valid": true,
+        "gear": {
+          "x": 138,
+          "y": 34,
+          "value": "*"
+        }
+      }
+    },
+    "b": {
+      "number": "365",
+      "x": 139,
+      "y": 35,
+      "length": 3,
+      "validation": {
+        "box": "*....\n.365.\n\n",
+        "valid": true,
+        "gear": {
+          "x": 138,
+          "y": 34,
+          "value": "*"
+        }
+      }
+    }
+  }
+]

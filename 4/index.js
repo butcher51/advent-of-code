@@ -201,45 +201,84 @@ Card 200: 18 23 50 60 67 44 98 17 30 28 | 99 22 82 65 15 44 33 69 54 79 52 93 12
 Card 201: 34 44 25  6 11 18 31 93 43 64 | 22 68 32 39  2 97 17 61 30 45 58 91 46 78 23 60 52 95 96 13  5 37 16 57  9
 Card 202: 92 67 16 37 19  9  2 74 41 34 | 96 13 70 82 48 27 58 17 14 61 18 81 43 15 32 69 80 76 31 47 84 90 40 75 60`;
 
+const test = `Card 1: 41 48 83 86 17 | 83 86  6 31 17  9 48 53
+Card 2: 13 32 20 16 61 | 61 30 68 82 17 32 24 19
+Card 3:  1 21 53 59 44 | 69 82 63 72 16 21 14  1
+Card 4: 41 92 73 84 69 | 59 84 76 51 58  5 54 83
+Card 5: 87 83 26 28 32 | 88 30 70 12 93 22 82 36
+Card 6: 31 18 13 56 72 | 74 77 10 23 35 67 36 11`;
 
-console.log('Day 4!');
+console.log("Day 4!");
 
 const fs = require("node:fs");
 
+const cardsMap = {};
 
-const cards = shit.split('\n').map(row => {
-    const [card, numbers] = row.split(':');
+const cards = shit.split("\n").map((row) => {
+  const [card, numbers] = row.split(":");
 
-    let [winNumbers, yourNumbers] = numbers.split('|');
-    winNumbers = winNumbers.split(' ').filter(n => n !== '').map(n => parseInt(n));
-    yourNumbers = yourNumbers.split(' ').filter(n => n !== '').map(n => parseInt(n));
+  let [winNumbers, yourNumbers] = numbers.split("|");
+  winNumbers = winNumbers
+    .split(" ")
+    .filter((n) => n !== "")
+    .map((n) => parseInt(n));
+  yourNumbers = yourNumbers
+    .split(" ")
+    .filter((n) => n !== "")
+    .map((n) => parseInt(n));
 
-    const winnerNumbers = [];
-    for(i = 0;i<yourNumbers.length;i++) {
-        const yourNumber = yourNumbers[i];
-        if (winNumbers.includes(yourNumber)) {
-            winnerNumbers.push(yourNumber);
-        }
+  const winnerNumbers = [];
+  for (i = 0; i < yourNumbers.length; i++) {
+    const yourNumber = yourNumbers[i];
+    if (winNumbers.includes(yourNumber)) {
+      winnerNumbers.push(yourNumber);
     }
+  }
 
-    const cardParts = card.split('');
-    cardId = parseInt(cardParts[cardParts.length-1]);
-    return {
-        cardName: card,
-        cardId,
-        winNumbers,
-        yourNumbers,
-        winnerNumbers,
-        sum: winnerNumbers.length > 0 ? Math.pow(2,winnerNumbers.length-1) : 0
-    };
+  const cardParts = card.split(" ");
+  cardId = parseInt(cardParts[cardParts.length - 1]);
+  const cardData = {
+    cardName: card,
+    cardId,
+    winNumbers,
+    yourNumbers,
+    winnerNumbers,
+    sum: winnerNumbers.length > 0 ? Math.pow(2, winnerNumbers.length - 1) : 0,
+  };
+  cardsMap[cardId] = cardData;
+  return cardData;
 });
 
-
+//fs.writeFileSync("cardMap.json", JSON.stringify(cardsMap, null, 2));
 fs.writeFileSync("log.json", JSON.stringify(cards, null, 2));
 
+/**
+ * PART 1
 let sum = 0;
-cards.forEach(card=>{
-    sum += card.sum;
+cards.forEach((card) => {
+  sum += card.sum;
 });
 
 console.log(sum);
+
+ */
+
+
+/** PART 2 */
+
+let sum = cards.length;
+cards.forEach((card) => {
+  sum += getWinningNumber(card);
+});
+console.log(sum);
+
+function getWinningNumber(card) {
+    let subSum = 0;
+    const winCount = card.winnerNumbers.length;
+    for (let k = 0;k<winCount;k++) {
+        const winCardId = card.cardId + 1 + k;
+        const subCard  = cardsMap[winCardId];
+        subSum += getWinningNumber(subCard);
+    }
+    return card.winnerNumbers.length + subSum;
+}
